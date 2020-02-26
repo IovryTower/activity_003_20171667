@@ -22,11 +22,12 @@
             android:textSize="24sp" />
 
         <RadioGroup
+            android:id="@+id/q11_rg"
             android:layout_width="match_parent"
             android:layout_height="273dp">
 
             <RadioButton
-                android:id="@+id/radioButton28"
+                android:id="@+id/q11_1"
                 android:layout_width="match_parent"
                 android:layout_height="49dp"
                 android:text="Male"
@@ -34,7 +35,7 @@
                 android:textStyle="bold" />
 
             <RadioButton
-                android:id="@+id/radioButton29"
+                android:id="@+id/q11_2"
                 android:layout_width="match_parent"
                 android:layout_height="49dp"
                 android:text="Female"

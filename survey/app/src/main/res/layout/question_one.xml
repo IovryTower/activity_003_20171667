@@ -23,11 +23,13 @@
         android:textSize="24sp" />
 
     <RadioGroup
+
+        android:id="@+id/q1_rg"
         android:layout_width="match_parent"
         android:layout_height="295dp">
 
         <RadioButton
-            android:id="@+id/radioButton1"
+            android:id="@+id/q1_1"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="Iphone"
@@ -35,7 +37,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/q1_2"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="Nokia"
@@ -43,7 +45,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton3"
+            android:id="@+id/q1_3"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="Samsung"
@@ -51,7 +53,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton4"
+            android:id="@+id/q1_4"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="MI"
@@ -59,7 +61,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton5"
+            android:id="@+id/q1_5"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="Lenovo"
@@ -67,7 +69,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton6"
+            android:id="@+id/q1_6"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="Sony"
@@ -75,7 +77,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton7"
+            android:id="@+id/q1_7"
             android:layout_width="match_parent"
             android:layout_height="42dp"
             android:text="Others"

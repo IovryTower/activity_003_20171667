@@ -23,11 +23,12 @@
         android:textSize="24sp" />
 
     <RadioGroup
+        android:id="@+id/q2_rg"
         android:layout_width="match_parent"
         android:layout_height="229dp">
 
         <RadioButton
-            android:id="@+id/radioButton8"
+            android:id="@+id/q2_1"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:text="Under 1000"
@@ -35,7 +36,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton9"
+            android:id="@+id/q2_2"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:text="1000-1999"
@@ -43,7 +44,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton10"
+            android:id="@+id/q2_3"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:text="2000-2999"
@@ -51,7 +52,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton11"
+            android:id="@+id/q2_4"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:text="3000-3999"
@@ -59,7 +60,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/q2_5"
             android:layout_width="match_parent"
             android:layout_height="45dp"
             android:text="more than 4000"

@@ -24,49 +24,49 @@
         android:textSize="24sp" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
+        android:id="@+id/q4_1"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="Music functions"
         android:textSize="18sp" />
 
     <CheckBox
-        android:id="@+id/checkBox4"
+        android:id="@+id/q4_2"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="Photo functions"
         android:textSize="18sp" />
 
     <CheckBox
-        android:id="@+id/checkBox5"
+        android:id="@+id/q4_3"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="Game functions"
         android:textSize="18sp" />
 
     <CheckBox
-        android:id="@+id/checkBox6"
+        android:id="@+id/q4_4"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="Business functions(Word,Excel,ect.)"
         android:textSize="18sp" />
 
     <CheckBox
-        android:id="@+id/checkBox7"
+        android:id="@+id/q4_5"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="GPS functions"
         android:textSize="18sp" />
 
     <CheckBox
-        android:id="@+id/checkBox2"
+        android:id="@+id/q4_6"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="Data functions(Bluetooth,WLAN,ect.)"
         android:textSize="18sp" />
 
     <CheckBox
-        android:id="@+id/checkBox8"
+        android:id="@+id/q4_7"
         android:layout_width="match_parent"
         android:layout_height="53dp"
         android:text="Others"

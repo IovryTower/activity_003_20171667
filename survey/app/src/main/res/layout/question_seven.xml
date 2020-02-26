@@ -6,9 +6,6 @@
 
     <!--  Start : Your code should be within this block -->
 
-
-
-
     <TextView
         android:id="@+id/textView17"
         android:layout_width="match_parent"
@@ -26,11 +23,12 @@
         android:textSize="24sp" />
 
     <RadioGroup
+        android:id="@+id/q7_rg"
         android:layout_width="match_parent"
         android:layout_height="309dp">
 
         <RadioButton
-            android:id="@+id/radioButton16"
+            android:id="@+id/q7_1"
             android:layout_width="match_parent"
             android:layout_height="61dp"
             android:text="When the old phone has been used for a year or two.(but it still works)"
@@ -38,7 +36,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton17"
+            android:id="@+id/q7_2"
             android:layout_width="match_parent"
             android:layout_height="61dp"
             android:text="When the old phone has been used for more than three years.(but it still works)"
@@ -46,7 +44,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton18"
+            android:id="@+id/q7_3"
             android:layout_width="match_parent"
             android:layout_height="61dp"
             android:text="When the old phone breaks down."
@@ -54,7 +52,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton19"
+            android:id="@+id/q7_4"
             android:layout_width="match_parent"
             android:layout_height="61dp"
             android:text="When a new phone is released."
@@ -62,7 +60,7 @@
             android:textStyle="bold" />
 
         <RadioButton
-            android:id="@+id/radioButton20"
+            android:id="@+id/q7_5"
             android:layout_width="match_parent"
             android:layout_height="59dp"
             android:text="Others"

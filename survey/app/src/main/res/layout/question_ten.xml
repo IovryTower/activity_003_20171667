@@ -22,11 +22,12 @@
             android:textSize="24sp" />
 
         <RadioGroup
+            android:id="@+id/q10_rg"
             android:layout_width="match_parent"
             android:layout_height="273dp">
 
             <RadioButton
-                android:id="@+id/radioButton28"
+                android:id="@+id/q10_1"
                 android:layout_width="match_parent"
                 android:layout_height="49dp"
                 android:text="Under 18"
@@ -34,15 +35,15 @@
                 android:textStyle="bold" />
 
             <RadioButton
-                android:id="@+id/radioButton29"
+                android:id="@+id/q10_2"
                 android:layout_width="match_parent"
                 android:layout_height="49dp"
-                android:text="19-15"
+                android:text="19-25"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
             <RadioButton
-                android:id="@+id/radioButton30"
+                android:id="@+id/q10_3"
                 android:layout_width="match_parent"
                 android:layout_height="49dp"
                 android:text="25-35"
@@ -50,7 +51,7 @@
                 android:textStyle="bold" />
 
             <RadioButton
-                android:id="@+id/radioButton31"
+                android:id="@+id/q10_4"
                 android:layout_width="match_parent"
                 android:layout_height="49dp"
                 android:text="beyond 35"

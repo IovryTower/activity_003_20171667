@@ -5,10 +5,6 @@
     android:orientation="vertical">
 
     <!--  Start : Your code should be within this block -->
-
-
-
-
     <TextView
         android:id="@+id/textView15"
         android:layout_width="match_parent"
@@ -26,7 +22,7 @@
         android:textSize="24sp" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/q6_edit"
         android:layout_width="match_parent"
         android:layout_height="94dp"
         android:ems="10"
